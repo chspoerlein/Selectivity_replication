@@ -17,7 +17,6 @@ Content
 Structure of replication files
 ------------------
 
-<<<<<<< HEAD
 Each file is structured in the same way: a header containing information on the country and the source of this specific individual level data. Note that education and age are categorized in such a way that they are compatible with the Barro-Lee dataset (http://www.barrolee.com/). In other words, age is categorized into 5-year intervals starting from age 15 up to age 64 and educational attainment is measured using four categories (less than secondary, lower secondary, upper secondary, more than secondary).
 
 The first chunck of code generates the regionalized educational distributions. Note that we did not change the regional identifier in the original data so please consult the corresponding documentation of the respecitive individual level data for more information.
